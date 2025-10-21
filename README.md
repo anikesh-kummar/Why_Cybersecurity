@@ -1,6 +1,6 @@
 # 🛡️ Why I Chose Cybersecurity
 
-Hi, I'm **Anikesh Kummar** – a first-year Electrical Engineering student from **Parala Maharaja Engineering College**, Berhampur.
+Hi, I'm **Anikesh Kumar** – a first-year Electrical Engineering student from **Parala Maharaja Engineering College**, Berhampur.
 
 Cybersecurity isn’t just a career path for me — it’s a **calling**.  
 I chose this field because it demands **human instinct, creativity, and strategy** — qualities that can’t be easily automated, even by the most powerful AI (yet 😉).
@@ -36,5 +36,5 @@ I'll help others !
 
 ---
 
-**– Anikesh Kummar**  
-🧠 Human first. Hacker always.  
+**– Anikesh Kumar**  
+Human first. Hacker always.  
